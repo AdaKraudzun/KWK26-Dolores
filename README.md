@@ -36,5 +36,4 @@ One of our biggest technical challenges was fixing code execution order issues a
 ## About
 
 Built at [Kode With Klossy](https://www.kodewithklossy.com) AI/ML Camp,
-Summer 2026, by Ada, Adiba, <img width="827" height="548" alt="Screenshot 1" src="https://github.com/user-attachments/assets/63f1f4dd-a4d3-4e0a-bbd5-c21429a65030" />
-Lasyasri, Susanna.
+Summer 2026, by Ada, Adiba, Lasyasri, Susanna.
